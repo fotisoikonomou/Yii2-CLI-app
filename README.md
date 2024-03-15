@@ -1,4 +1,4 @@
-# Yii2-Test
+# Yii2-CLI App
 
 This is a Yii2 app that extracts data from Open Exchange Rates API and to make it work you must sign up and obtain a free key, https://openexchangerates.org/signup/free 
 Also, I implemented this Yii2 software to run through the command line. So to see it working and after you create the db and the corresponding tables, you can run it with gitbash.
