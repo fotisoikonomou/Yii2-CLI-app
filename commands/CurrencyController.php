@@ -9,7 +9,7 @@ use app\components\etl\implementations\DatabaseLoad;
 class CurrencyController extends \yii\console\Controller
 {
 
-    private $apiKey = 'a9af276867da4e66ba5ed4023a9fc9f1';
+    private $apiKey = 'your_api_key';
 
     public function actionImport($startDate = null, $endDate = null)
     {
